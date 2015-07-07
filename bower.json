@@ -1,0 +1,15 @@
+{
+  "name": "jQuery.FastEllipsis",
+  "homepage": "https://github.com/dobiatowski/jQuery.FastEllipsis",
+  "_release": "9cd29aef7e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9cd29aef7ea964d2b6580c4709256dcc9160fdea"
+  },
+  "_source": "https://github.com/iulian-gioada/jQuery.FastEllipsis.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/dobiatowski/jQuery.FastEllipsis.git",
+  "_direct": true,
+  "main": "js/Vanilla.FastEllipsis.js"
+}
